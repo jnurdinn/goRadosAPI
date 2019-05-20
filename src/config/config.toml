@@ -1,0 +1,13 @@
+# NextRados Server Configurations
+# Created by mamanberliansyah
+
+# NextRados Host address
+NextRadosHost          = "10.10.2.103:8080"
+# Rados Gateway Host Address
+AdminRGWHost           = "http://10.10.2.103:7480"
+# Rados Gateway Admin UID (added capabilities to a certain degree)
+AdminRGWUID            = "admin"
+# Rados Gateway Admin Access Key
+AdminRGWAccessKey      = "B5QQK7FX4YH2BZW477FU"
+# Rados Gateway Admin Secret Key
+AdminRGWSecretKey      = "IZwhA4E1NAitwXxZKWBIZxk6kCMUnWgcuhOUxTl1"
